@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+⚡  I'm a software developer. 
+My main expertise is in JavaScript but I'm open for new languages and technologies and expanding my knowledge stack. I'm using various frameworks, libraries and technologies and trying to choose the best ones for a project (or new for pet-projects).
+
 <!--
 **KRostyslav/krostyslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

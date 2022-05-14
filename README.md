@@ -1,3 +1,4 @@
+![Russian warship, go f*ck yourself](warship.jpeg)
 ## Russian warship, go f*ck yourself !!!
 
 ⚡  I'm a software developer from Ukraine :ukraine:
